@@ -5,6 +5,7 @@ EXPOSE 7070
 
 COPY target/maven-web-app.war /usr/local/tomcat/webapps/maven-web-app.war
 
+Run instruction
 CMD instructions
 
 // added new line
