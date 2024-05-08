@@ -5,6 +5,8 @@ EXPOSE 7070
 
 COPY target/maven-web-app.war /usr/local/tomcat/webapps/maven-web-app.war
 
+MAINTAINER SHUBHAM
+
 Run instruction
 CMD instructions
 
